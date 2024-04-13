@@ -13,13 +13,10 @@ body{
 	padding: 15px;
 	border: 1px solid #ccc;
 	background-color: #fff;
-	margin-bottom: 20px;
 }
-
-.testimonial p{
-	margin: 0;
+.text{
+	font-style: normal;
 }
-.\
 .author{
 	text-align: right;
 	font-style: italic;
